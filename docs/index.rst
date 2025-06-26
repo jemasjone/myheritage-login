@@ -7,7 +7,7 @@ How to Login MyHeritage Account Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://myheritage-login-account.readthedocs.io/en/latest/_images/login.png
+.. image:: login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
